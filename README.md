@@ -2,6 +2,8 @@
 
 This is a Drum Kit project implemented with HTML, CSS, and JavaScript.
 
+Checkout the site at: https://thongnguyen2005.github.io/Instrument-Play/
+
 # How to Use
 Click on the drum buttons or press the corresponding keys (w, a, s, d, j, k, l) to play different drum sounds.
 
